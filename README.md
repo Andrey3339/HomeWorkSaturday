@@ -11,4 +11,7 @@
 7. git add README.md
 8. git commit -m "add README.md"
 9. git push https://github.com/InowaR/HomeWorkSaturday.git
-10. 
+10. git branch new
+11. git add README.md
+12. git commit -m "add text in README.md"
+13. git push --set-upstream origin new
